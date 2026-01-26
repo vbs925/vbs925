@@ -87,9 +87,10 @@ I consider myself a curious learner, a dedicated developer, and someone who enjo
 ### 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/varun-bharadwaj-s-75a981258/
 - 📧 Email: varunsb004@gmail.com
-- 
 
-<img src="https://raw.githubusercontent.com/niklasfasching/playground/master/pacman.svg" />
+### Just watch somthing fun: 
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="500"/>
+
 
 
 
