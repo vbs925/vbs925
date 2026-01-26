@@ -89,7 +89,8 @@ I consider myself a curious learner, a dedicated developer, and someone who enjo
 - 📧 Email: varunsb004@gmail.com
 
 ### Just watch somthing fun: 
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="500"/>
+<img src="https://raw.githubusercontent.com/akashnimare/akashnimare/master/assets/runner.gif" width="500" />
+
 
 
 
