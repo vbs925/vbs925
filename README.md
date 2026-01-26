@@ -1,5 +1,4 @@
 ## Hi there 👋 Varun Bharadwaj S
-![avatra](https://github.com/user-attachments/assets/46f2943f-c4b1-43b6-83a5-5f4aac005123)
 
 
 <!--
@@ -88,6 +87,8 @@ I consider myself a curious learner, a dedicated developer, and someone who enjo
 ### 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/varun-bharadwaj-s-75a981258/
 - 📧 Email: varunsb004@gmail.com
+- 
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=🚀+Building+Cool+Things+in+Code;☕+Powered+by+Coffee+and+Curiosity;🐞+Bug+Free+Since+...+Maybe;✨+Welcome+to+My+GitHub+Profile" />
 
 
 
