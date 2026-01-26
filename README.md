@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Constantly learning and improving — one commit at a time.
 -->
 
-👨‍💻 About Me:
+### 👨‍💻 About Me:
+
 I am a Computer Science Engineering student in Atria Institute of technology with a strong passion for full stack development and building practical, real-world applications. I enjoy working across both frontend and backend, transforming ideas into functional, user-friendly, and scalable solutions.
 As a full stack developer, I have hands-on experience in designing responsive user interfaces and developing robust backend systems. I am particularly interested in writing clean, maintainable code and continuously improving my problem-solving and system-design skills through projects and experimentation.
 My technical interests extend beyond traditional web development into Generative AI and Cloud Computing, where I am actively exploring how intelligent systems and cloud-based architectures can be combined to build modern, scalable applications. I am always eager to learn new technologies, adapt to industry trends, and apply them in meaningful ways.
