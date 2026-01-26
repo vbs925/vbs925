@@ -31,9 +31,8 @@ I consider myself a curious learner, a dedicated developer, and someone who enjo
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Constantly learning and improving — one commit at a time.
 
-### 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 | Category | Technology |
 |--------|------------|
@@ -59,7 +58,6 @@ I consider myself a curious learner, a dedicated developer, and someone who enjo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbs925&layout=compact&theme=tokyonight)
 
 ### 🚀 Projects
-## 🚀 Projects
 
 <table>
   <tr>
