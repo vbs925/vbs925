@@ -57,9 +57,31 @@ I consider myself a curious learner, a dedicated developer, and someone who enjo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbs925&layout=compact&theme=tokyonight)
 
 ### 🚀 Projects
-- 💬 **Chat Application** – React, Vite, MongoDB
-- 🏥 **Real Estate – React , Vite , Tailwind CSS
-- 🧠 **Lung Cancer Detection** – Python, TensorFlow
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>💬 Chat Application</h3>
+      <p>Real-time chat app built using React, Vite, and MongoDB.</p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> 
+      </p>
+      <a href="https://github.com/vbs925/chatapp">🔗 View Repository</a>
+    </td>
+    <td width="50%">
+      <h3>Real estate website</h3>
+      <p>A simple frontend real estate webpage. Made using React, Vite , TailwindCSS</p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> 
+      </p>
+      <a href="https://github.com/vbs925/real-estate-">🔗 View Repository</a>
+    </td>
+  </tr>
+</table>
+
 
 ### 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/varun-bharadwaj-s-75a981258/
