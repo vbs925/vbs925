@@ -1,4 +1,6 @@
 ## Hi there 👋 Varun Bharadwaj S
+<img width="928" height="1120" alt="avatar" src="https://github.com/user-attachments/assets/a1ddb829-2f0e-49ee-83e1-755ec3fa6c05" />
+
 
 <!--
 
