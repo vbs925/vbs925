@@ -88,7 +88,16 @@ I consider myself a curious learner, a dedicated developer, and someone who enjo
 - 💼 LinkedIn: https://www.linkedin.com/in/varun-bharadwaj-s-75a981258/
 - 📧 Email: varunsb004@gmail.com
 - 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=🚀+Building+Cool+Things+in+Code;☕+Powered+by+Coffee+and+Curiosity;🐞+Bug+Free+Since+...+Maybe;✨+Welcome+to+My+GitHub+Profile" />
+
+🟢 Clean  
+🟢 Developer humor  
+🟢 Zero animations (safe & fast)
+
+---
+
+⬇️ **Meta & fun**
+
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=👀+You+are+watching+my+GitHub+README;🎬+No+Ads...+Just+Fun;🚀+Scroll+Down+for+Projects" />
 
 
 
