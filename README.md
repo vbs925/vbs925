@@ -89,15 +89,7 @@ I consider myself a curious learner, a dedicated developer, and someone who enjo
 - 📧 Email: varunsb004@gmail.com
 - 
 
-🟢 Clean  
-🟢 Developer humor  
-🟢 Zero animations (safe & fast)
-
----
-
-⬇️ **Meta & fun**
-
-<img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=👀+You+are+watching+my+GitHub+README;🎬+No+Ads...+Just+Fun;🚀+Scroll+Down+for+Projects" />
+<img src="https://raw.githubusercontent.com/niklasfasching/playground/master/pacman.svg" />
 
 
 
