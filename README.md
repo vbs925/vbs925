@@ -51,7 +51,6 @@ I consider myself a curious learner, a dedicated developer, and someone who enjo
 |  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="25"/> Vercel |
 
 
-### 📊 GitHub Stats
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vbs925&show_icons=true&theme=tokyonight&cache_seconds=1800)
@@ -59,6 +58,8 @@ I consider myself a curious learner, a dedicated developer, and someone who enjo
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vbs925&layout=compact&theme=tokyonight)
 
 ### 💻 Most Used Languages
+
+
 ## 📊 GitHub Stats
 
 ## 📊 GitHub Activity
