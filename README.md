@@ -51,20 +51,20 @@ I consider myself a curious learner, a dedicated developer, and someone who enjo
 |  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="25"/> Vercel |
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vbs925&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vbs925&layout=compact&theme=tokyonight)
 
 ### 💻 Most Used Languages
 
+| Language |
+|---------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python |
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vbs925)
+![Metrics](https://metrics.lecoq.io/vbs925)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vbs925)
 
