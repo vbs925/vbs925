@@ -52,10 +52,18 @@ I consider myself a curious learner, a dedicated developer, and someone who enjo
 
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vbs925&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vbs925&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vbs925&layout=compact&theme=tokyonight)
 
 ### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbs925&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vbs925&show_icons=true&include_all_commits=true&count_private=true&theme=default&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vbs925&layout=compact&langs_count=6&theme=default&cache_seconds=1800)
 
 ### 🚀 Projects
 
